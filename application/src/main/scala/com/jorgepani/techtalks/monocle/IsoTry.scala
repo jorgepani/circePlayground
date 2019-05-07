@@ -1,15 +1,16 @@
 package com.jorgepani.techtalks.monocle
 
 import monocle.Iso
+import org.slf4j.LoggerFactory
 
 case class Kilometer(whole: Int, fraction: Int)
-
 case class Meter(whole: Int, fraction: Int)
 case class Centimeter(whole: Int)
 
+//Para tipos de datos que son esencialmente lo mismo pero los representamos diferente
 object IsoTry extends App {
 
-  //Para tipos de datos que son esencialmente lo mismo pero los representamos diferente
+  private val log = LoggerFactory.getLogger(this.getClass)
 
   // Get y reverseGet
   val isoCentToMeter = Iso[Centimeter, Meter] { cm =>
@@ -27,8 +28,12 @@ object IsoTry extends App {
   val isoCentToKilo = isoCentToMeter.composeIso(isoMeterToKilometer)
   val kiloToCentIso = isoCentToKilo.reverse
 
-  println(kiloToCentIso.get(Kilometer(20, 3)))
+  val centimeter = kiloToCentIso.get(Kilometer(20, 3))
 
-  println(isoCentToMeter.modify(m => m.copy(m.whole + 3))(Centimeter(155)))
+  log.info(s"Centimeters = $centimeter")
+
+  val meterToCent = isoCentToMeter.modify(m => m.copy(m.whole + 3))(Centimeter(155))
+
+  log.info(s"Centimeters = $meterToCent")
 
 }

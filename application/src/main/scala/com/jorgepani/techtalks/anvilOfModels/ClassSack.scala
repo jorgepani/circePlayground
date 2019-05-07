@@ -15,15 +15,15 @@ object Jsones {
   def swaggerJson(): String =
     s"""{
         "paths": {
-          "seometadata": {
+          "data": {
             "get": {
               "summary": "Listing",
-              "description": "Returns the seo status for a destination.",
+              "description": "Returns the data status for a place.",
               "parameters": [
                 {
-                  "name": "lbsId",
+                  "name": "placeId",
                   "in": "path",
-                  "description": "Listing unique identifier.",
+                  "description": "unique identifier.",
                   "required": true,
                   "type": "string"
                 },
@@ -35,9 +35,9 @@ object Jsones {
                   "type": "string"
                 },
                 {
-                  "name": "refinementKey",
+                  "name": "filterKey",
                   "in": "query",
-                  "description": "Refinement Key that the returned listings should be part of",
+                  "description": "filter key",
                   "required": false,
                   "type": "string"
                 }
@@ -50,7 +50,7 @@ object Jsones {
                   "status": 200,
                   "description": "successful operation",
                   "schema": {
-                    "reference": "#/definitions/SeoMetadataResponse"
+                    "reference": "#/definitions/PathDataResponse"
                   }
                 }
               }
@@ -62,15 +62,15 @@ object Jsones {
   def swaggerJsonModified(): String =
     s"""{
         "paths": {
-          "seometadata": {
+          "data": {
             "get": {
               "summary": "Listing",
-              "description": "Returns the seo status for a destination.",
+              "description": "Returns the data status for a place.",
               "parameters": [
                 {
-                  "name": "lbsId",
+                  "name": "placeId",
                   "in": "path",
-                  "description": "Listing unique identifier.",
+                  "description": "unique identifier.",
                   "required": true,
                   "type": "string"
                 },
@@ -82,9 +82,9 @@ object Jsones {
                   "type": "string"
                 },
                 {
-                  "name": "refinementKey",
+                  "name": "filterKey",
                   "in": "query",
-                  "description": "Refinement Key that the returned listings should be part of",
+                  "description": "filter key",
                   "required": true,
                   "type": "string"
                 }
@@ -97,7 +97,7 @@ object Jsones {
                   "status": 200,
                   "description": "successful operation",
                   "schema": {
-                    "reference": "#/definitions/SeoMetadataResponse"
+                    "reference": "#/definitions/PathDataResponse"
                   }
                 }
               }

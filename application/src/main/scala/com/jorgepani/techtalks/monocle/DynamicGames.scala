@@ -1,5 +1,7 @@
 package com.jorgepani.techtalks.monocle
 
+import org.slf4j.LoggerFactory
+
 class DynamicToy extends Dynamic {
   def selectDynamic(name: String) = name
 
@@ -24,14 +26,15 @@ class MapDynamic extends Dynamic {
 
 object DynamicGames extends App {
 
+  private val log = LoggerFactory.getLogger(this.getClass)
+
   val pera = new DynamicToy
-  println(pera.limonera)
+  log.info(pera.limonera)
 
   val mapDynamic = new MapDynamic
-  println(mapDynamic.foo)
-
+  mapDynamic.foo
   mapDynamic.foo = 10
 
-  println(mapDynamic.foo)
+  log.info(mapDynamic.foo.toString)
 
 }

@@ -13,18 +13,21 @@ object OpticsTraversing extends App {
   val swagger = Jsones.swaggerJson()
   val jsonParsed = parse(swagger).getOrElse(Json.Null)
 
-  //get an element
-  val _description = root.paths.seometadata.get.description.string
-  val cosa = _description.getOption(jsonParsed)
+  //Create an optic
+  val descriptionOptic = root.paths.data.get.description.string
+  //Use optic to get data
+  val description = descriptionOptic.getOption(jsonParsed)
 
-  println(cosa)
+  description.map(log.info)
 
   //play with arrays
   val parameterNames: Seq[String] =
-    root.paths.seometadata.get.parameters.each.name.string.getAll(jsonParsed)
+    root.paths.data.get.parameters.each.name.string.getAll(jsonParsed)
+
+  parameterNames.map(parameter => log.info(s"""Parameter found "$parameter""""))
 
   val alterResponseOk: Json ⇒ Json =
-    root.paths.seometadata.get.responses.ok.status.int.modify(_ ⇒ 500)
+    root.paths.data.get.responses.ok.status.int.modify(_ ⇒ 500)
 
   //Modifiying json
   val alteredJson = alterResponseOk(jsonParsed)

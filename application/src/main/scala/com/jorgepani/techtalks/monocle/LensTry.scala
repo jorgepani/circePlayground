@@ -34,6 +34,7 @@ object GeoLenses {
     Lens.apply[Region, String](region => region.name)(newName =>
       region => region.copy(name = newName))
 
+  // macros para no escribir toda esa parrafada
   val macroLens = GenLens[Town](_.name)
 }
 

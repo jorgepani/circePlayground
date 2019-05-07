@@ -18,7 +18,7 @@ class OpticsTraversingSpec extends WordSpec with MustMatchers {
       println(jsonString)
 
       val alteredResponse =
-        root.paths.seometadata.get.parameters.each.required.boolean.modify(_ ⇒
+        root.paths.data.get.parameters.each.required.boolean.modify(_ ⇒
           true)
 
       val alteredJson: Json = alteredResponse(jsonParsed)
