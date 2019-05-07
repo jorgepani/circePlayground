@@ -14,13 +14,13 @@ class DynamicToy extends Dynamic {
 
 class MapDynamic extends Dynamic {
 
-  var map = Map.empty[String, Any]
+  var map = collection.mutable.Map.empty[String, String]
 
   def selectDynamic(name: String) =
-    map get name getOrElse println("method not found")
+    map get name getOrElse "method not found"
 
-  def updateDynamic(name: String)(value: Any): Unit = {
-    map += name -> value
+  def updateDynamic(name: String)(value: String): Unit = {
+    map(name) = value
   }
 }
 
@@ -32,9 +32,10 @@ object DynamicGames extends App {
   log.info(pera.limonera)
 
   val mapDynamic = new MapDynamic
-  mapDynamic.foo
-  mapDynamic.foo = 10
 
-  log.info(mapDynamic.foo.toString)
+  log.info(mapDynamic.foo)
+  mapDynamic.foo = "10"
+
+  log.info(mapDynamic.foo)
 
 }

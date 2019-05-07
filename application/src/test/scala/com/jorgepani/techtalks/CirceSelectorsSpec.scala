@@ -6,7 +6,7 @@ import io.circe.optics.JsonPath.root
 import io.circe.parser.parse
 import org.scalatest.{MustMatchers, WordSpec}
 
-class OpticsTraversingSpec extends WordSpec with MustMatchers {
+class CirceSelectorsSpec extends WordSpec with MustMatchers {
   "Circeplayground" should {
     "traverse a Json to modify it with Optics" in {
       //All parameters should be required. Use

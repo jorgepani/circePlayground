@@ -16,7 +16,7 @@ case class DetailedErrorA(detailedMessage: String)
 
 object OptionalTry extends App {
 
-  val head = Optional[List[Int], Int] {
+  val headOptional = Optional[List[Int], Int] {
     case Nil     => None
     case x :: xs => Some(x)
   } { a =>
@@ -29,12 +29,12 @@ object OptionalTry extends App {
   val xs = List(1, 2, 3)
   val ys = List.empty[Int]
 
-  println(head.isEmpty(xs))
-  println(head.isEmpty(ys))
+  println(headOptional.isEmpty(xs))
+  println(headOptional.isEmpty(ys))
 
-  println(head.set(5)(List(4, 5, 6)))
+  println(headOptional.set(5)(List(4, 5, 6)))
 
-  println(head.getOption(xs))
-  println(head.set(5))
+  println(headOptional.getOption(xs))
+  println(headOptional.set(5))
 
 }

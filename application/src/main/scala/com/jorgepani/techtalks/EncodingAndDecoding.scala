@@ -2,13 +2,8 @@ package com.jorgepani.techtalks
 
 import java.time.LocalDate
 
-import com.jorgepani.techtalks.anvilOfModels.{
-  Decoders,
-  Encoders,
-  HeroGang,
-  Power,
-  SuperHero
-}
+import com.jorgepani.techtalks.anvilOfModels.{Decoders, Encoders, HeroGang, Power, SuperHero}
+import io.circe.Decoder.Result
 import io.circe.Json
 import io.circe.syntax._
 import io.circe.parser._
@@ -38,8 +33,10 @@ object EncodingAndDecoding extends App with Encoders with Decoders {
 
   val avengers = HeroGang("Avengers", List[SuperHero](ironMan, blackPanther))
 
-  val json = avengers.asJson
+  val json: Json = avengers.asJson
+
+  val gangParsed: Result[HeroGang] = parse(json.noSpaces).getOrElse(Json.Null).as[HeroGang]
 
   log.info(json.spaces4)
-  log.info(parse(json.noSpaces).getOrElse(Json.Null).as[HeroGang].toString)
+  log.info(gangParsed.toString)
 }
