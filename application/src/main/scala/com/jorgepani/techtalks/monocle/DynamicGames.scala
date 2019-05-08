@@ -5,6 +5,7 @@ import org.slf4j.LoggerFactory
 class DynamicToy extends Dynamic {
   def selectDynamic(name: String) = name
 
+  //para cacharrear después
   def applyDynamic(name: String)(args: Any*) =
     s"method '$name' called with arguments ${args.mkString("'", "', '", "'")}"
 
@@ -29,12 +30,14 @@ object DynamicGames extends App {
   private val log = LoggerFactory.getLogger(this.getClass)
 
   val pera = new DynamicToy
+  log.info(pera.manzanera(1, 2, 3))
   log.info(pera.limonera)
 
   val mapDynamic = new MapDynamic
 
   log.info(mapDynamic.foo)
   mapDynamic.foo = "10"
+
 
   log.info(mapDynamic.foo)
 

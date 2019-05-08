@@ -11,9 +11,9 @@ object CirceSelectors extends App {
   private val log = LoggerFactory.getLogger(this.getClass)
 
   val swagger = Jsones.swaggerJson()
-  val jsonParsed = parse(swagger).getOrElse(Json.Null)
+  val jsonParsed: Json = parse(swagger).getOrElse(Json.Null)
 
-  //Create a selector
+  //Create a selector using JsonPath
   val descriptionOptic = root.paths.data.get.description.string
   //Use optic to get data
   val description = descriptionOptic.getOption(jsonParsed)

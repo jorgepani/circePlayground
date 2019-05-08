@@ -32,6 +32,7 @@ object IsoTry extends App {
 
   log.info(s"Centimeters = $centimeter")
 
+  //Centimetro convertido a metro y además modificado para añadirle lo que quiero
   val meterToCent = isoCentToMeter.modify(m => m.copy(m.whole + 3))(Centimeter(155))
 
   log.info(s"Centimeters = $meterToCent")

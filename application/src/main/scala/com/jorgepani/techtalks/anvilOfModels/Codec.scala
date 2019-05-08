@@ -4,7 +4,6 @@ import java.time.LocalDate
 
 import io.circe.{Decoder, Encoder, HCursor}
 import io.circe.syntax._
-//import io.circe.generic.semiauto._
 
 trait Encoders {
   implicit val heroGangEncoder: Encoder[HeroGang] =
