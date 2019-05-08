@@ -2,146 +2,140 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972625e0-a2bb-4413-885e-76b7b6b82eb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application$sources_2.12/0.0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application$sources_2.12/0.0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application_2.12/0.0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application_2.12/0.0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/ivy-report.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/BujeroDeClases.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anon$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anonfun$powerDecoder$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Encoders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/HeroGang$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/HeroGang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Jsones$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Jsones.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Power$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Power.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/SuperHero$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/SuperHero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Centimeter$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Centimeter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DetailedErrorA$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DetailedErrorA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicToy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Error.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorA$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorB$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Kilometer$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Kilometer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/MapDynamic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Meter$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Meter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNull$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNum$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JObj$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JObj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JStr$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JStr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Json.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Percent$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Percent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Province$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Province.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Region$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Region.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Town$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Town.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/BasicConversionSpec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/EncodingAndDecodingSpec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/TraversingJsonSpec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/ssExtractDependencies/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CirceSelectors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CirceSelectors.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application$sources_2.12/0.0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application$sources_2.12/0.0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application_2.12/0.0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application_2.12/0.0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/BujeroDeClases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anonfun$powerDecoder$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Encoders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/HeroGang$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/HeroGang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Jsones$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Jsones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Power$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/SuperHero$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/SuperHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Centimeter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Centimeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DetailedErrorA$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DetailedErrorA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicToy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Error.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorA$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorB$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Kilometer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Kilometer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/MapDynamic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Meter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Meter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNull$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNum$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JObj$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JObj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JStr$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Json.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Percent$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Percent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Province$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Province.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Region$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Region.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Town$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Town.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/BasicConversionSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/EncodingAndDecodingSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/TraversingJsonSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/logback-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/ssExtractDependencies/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,8 +178,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+            <state relative-caret-position="570">
+              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -531,15 +525,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557234897285</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="more changes">
+      <created>1557319220645</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557319220645</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4941000" />
+    <option name="totallyTimeSpent" value="5184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1238" y="-1057" width="1684" height="962" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17965895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -730,8 +730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+        <state relative-caret-position="570">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
         </state>
       </provider>
     </entry>
