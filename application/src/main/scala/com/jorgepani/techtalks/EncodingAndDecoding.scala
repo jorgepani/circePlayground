@@ -22,14 +22,14 @@ object EncodingAndDecoding extends App with Encoders with Decoders {
 
   val blackPantherPowers = List[Power](
     Power("Rich", "Wakanda forever"),
-    Power("Black", "That's a superpower sometimes"),
+    Power("Super strength", "That's a superpower sometimes"),
     Power("King in the south",
           "The king of somewhere in africa with a huge air conditioner")
   )
 
   val ironMan = SuperHero("IronMan", "Male", ironManPowers, LocalDate.now())
   val blackPanther =
-    SuperHero("BlackPanther", "Black male", blackPantherPowers, LocalDate.now())
+    SuperHero("BlackPanther", "Male", blackPantherPowers, LocalDate.now())
 
   val avengers = HeroGang("Avengers", List[SuperHero](ironMan, blackPanther))
 

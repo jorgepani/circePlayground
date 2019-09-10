@@ -31,6 +31,7 @@ object DynamicGames extends App {
 
   val pera = new DynamicToy
   log.info(pera.manzanera(1, 2, 3))
+  log.info(pera.platanera(cosa = "sad", otracosa = "daseq", aquellaCosa = "aseqw"))
   log.info(pera.limonera)
 
   val mapDynamic = new MapDynamic

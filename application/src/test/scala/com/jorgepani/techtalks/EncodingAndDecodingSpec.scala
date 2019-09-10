@@ -32,7 +32,7 @@ class EncodingAndDecodingSpec
 
       val blackPantherPowers = List[Power](
         Power("Rich", "Wakanda forever"),
-        Power("Black", "That's a superpower sometimes"),
+        Power("Super strength", "That's a superpower sometimes"),
         Power("King in the south",
               "The king of somewhere in africa with a huge air conditioner")
       )

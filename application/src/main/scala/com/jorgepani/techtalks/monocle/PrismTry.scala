@@ -11,6 +11,8 @@ object PrismTry extends App {
   //Una iso que puede no llegar a alcanzar un valor. Head & tail example para listas
   // Pone juntos el pattern matching y el construct
 
+
+  //modelado de un ADT -> Algebraic Data Types
   sealed trait Json
   case object JNull extends Json
   case class JStr(v: String) extends Json

@@ -46,6 +46,7 @@ object LensTry extends App {
     val riyion = Region("Murcia", "Piruletalandia")
 
     println(s"El nombre de la region es: ${regionNameLens.get(riyion)}")
+    println(regionNameLens.set("Juliembre")(riyion))
   }
 
   //composición de lentes

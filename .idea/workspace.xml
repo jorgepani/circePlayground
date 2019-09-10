@@ -2,141 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972625e0-a2bb-4413-885e-76b7b6b82eb0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application$sources_2.12/0.0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application$sources_2.12/0.0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application_2.12/0.0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/com.jorgepani.techtalks/application_2.12/0.0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application$sources_2.12-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/com.jorgepani.techtalks-application_2.12-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/BasicConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/CustomEncoding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/EncodingAndDecoding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/TraversingJson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/BujeroDeClases.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anon$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anon$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders$$anonfun$powerDecoder$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Decoders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Encoders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/HeroGang$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/HeroGang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Jsones$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Jsones.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Power$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/Power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/SuperHero$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/anvilOfModels/SuperHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Centimeter$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Centimeter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DetailedErrorA$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DetailedErrorA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicGames.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/DynamicToy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Error.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorA$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorB$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/ErrorB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses$$anon$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/GeoLenses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/IsoTry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Kilometer$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Kilometer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/LensTry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/MapDynamic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Meter$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Meter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/OptionalTry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNull$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNum$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JObj$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JObj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JStr$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$JStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Json.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Percent$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$Percent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/PrismTry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Province$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Province.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Region$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Region.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Town$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/jorgepani/techtalks/monocle/Town.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/BasicConversionSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/EncodingAndDecodingSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/com/jorgepani/techtalks/TraversingJsonSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/test-classes/logback-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/ssExtractDependencies/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/LensTry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/LensTry.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/PrismTry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/PrismTry.scala" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/docker-image/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/application/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,6 +21,11 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="SBT">
@@ -153,84 +35,66 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-              <folding>
-                <element signature="e#41#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/srcs/monocle-core_2.12-1.4.0-sources.jar!/monocle/Iso.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="77" column="36" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/ClassSack.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CirceSelectors.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-              <folding>
-                <element signature="e#33#84#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-optics_2.12/srcs/circe-optics_2.12-0.9.3-sources.jar!/io/circe/optics/JsonPath.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-              <folding>
-                <element signature="e#33#59#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/PrismTry.scala">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-core_2.12/srcs/circe-core_2.12-0.9.3-sources.jar!/io/circe/syntax/package.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="90">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/EncodingAndDecodingSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/BasicConversionSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/CirceSelectorsSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/TraversingJsonSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-38">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/TraversingJson.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -238,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="-485">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding>
                 <element signature="e#47#73#0" expanded="true" />
               </folding>
@@ -248,18 +112,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/BasicConversion.scala">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-core_2.12/srcs/circe-core_2.12-0.9.3-sources.jar!/io/circe/Json.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="1022">
+              <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
               <folding>
-                <element signature="e#33#63#0" expanded="true" />
+                <element signature="e#18#42#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/ClassSack.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>traverse</find>
+      <find>io.circe.generic.auto</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -267,27 +146,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala" />
         <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala" />
         <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CirceSelectors.scala" />
-        <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala" />
+        <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/OptionalTry.scala" />
+        <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/PrismTry.scala" />
         <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala" />
+        <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala" />
+        <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/LensTry.scala" />
+        <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/TraversalTry.scala" />
+        <option value="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1238" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1684" />
-    <option name="height" value="962" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="36" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -357,16 +237,83 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="circePlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="circePlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="techtalks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.github.julien-truffaut:monocle-core_2.12:1.4.0:jar" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.github.julien-truffaut:monocle-core_2.12:1.4.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="monocle-core_2.12-1.4.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.github.julien-truffaut:monocle-core_2.12:1.4.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="monocle-core_2.12-1.4.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="monocle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.github.julien-truffaut:monocle-macro_2.12:1.4.0:jar" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.github.julien-truffaut:monocle-macro_2.12:1.4.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="monocle-macro_2.12-1.4.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="circeplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.github.julien-truffaut:monocle-macro_2.12:1.4.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="monocle-macro_2.12-1.4.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="macros" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -380,33 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DynamicGames">
-    <configuration name="CirceSelectors" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jorgepani.techtalks.CirceSelectors" />
-      <module name="application" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jorgepani.techtalks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicGames" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jorgepani.techtalks.monocle.DynamicGames" />
-      <module name="application" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jorgepani.techtalks.monocle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EncodingAndDecoding">
     <configuration name="EncodingAndDecoding" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jorgepani.techtalks.EncodingAndDecoding" />
       <module name="application" />
@@ -435,6 +356,32 @@
     </configuration>
     <configuration name="LensTry" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jorgepani.techtalks.monocle.LensTry" />
+      <module name="application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jorgepani.techtalks.monocle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTry" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jorgepani.techtalks.monocle.OptionalTry" />
+      <module name="application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jorgepani.techtalks.monocle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrismTry" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jorgepani.techtalks.monocle.PrismTry" />
       <module name="application" />
       <extension name="coverage">
         <pattern>
@@ -495,15 +442,47 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DynamicGames" />
-        <item itemvalue="Application.IsoTry" />
-        <item itemvalue="Application.CirceSelectors" />
         <item itemvalue="Application.EncodingAndDecoding" />
+        <item itemvalue="Application.OptionalTry" />
+        <item itemvalue="Application.PrismTry" />
         <item itemvalue="Application.LensTry" />
+        <item itemvalue="Application.IsoTry" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="circeplayground" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="circeplayground [file:/Users/jpaniaguaferna/IdeaProyects/personal/circePlayground/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="application [file:/Users/jpaniaguaferna/IdeaProyects/personal/circePlayground/]" />
+                <option name="path" value="$PROJECT_DIR$/application" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="dockerImage [file:/Users/jpaniaguaferna/IdeaProyects/personal/circePlayground/]" />
+                <option name="path" value="$PROJECT_DIR$/docker-image" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="circeplayground-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="6225122966000" />
@@ -534,23 +513,87 @@
       <option name="project" value="LOCAL" />
       <updated>1557319220645</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="more changes">
+      <created>1557319247682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557319247682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="more changes">
+      <created>1557319414699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557319414699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="remove unnecessary files">
+      <created>1557319465380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557319465380</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="972625e0-a2bb-4413-885e-76b7b6b82eb0" name="Default Changelist" comment="" />
+      <created>1557329635637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557329635637</updated>
+      <workItem from="1557329637336" duration="6172000" />
+      <workItem from="1562249644712" duration="5306000" />
+      <workItem from="1563525864804" duration="2758000" />
+      <workItem from="1566903047968" duration="4057000" />
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5184000" />
+    <option name="totallyTimeSpent" value="23798000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1238" y="-1057" width="1684" height="962" extended-state="0" />
+    <frame x="1" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17965895" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25974026" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5822785" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959327" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32959327" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32959327" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32630098" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="CDI" order="5" />
+      <window_info anchor="right" id="sbt" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21316166" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5822785" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -572,69 +615,240 @@
       <window_info anchor="right" id="CDI" order="5" />
       <window_info anchor="right" id="sbt" order="6" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17992873" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Learn" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27872342" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959327" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32959327" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Build" order="13" weight="0.32959327" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32821724" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="15" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="CDI" order="5" />
-      <window_info anchor="right" id="sbt" order="6" weight="0.3297568" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="more changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="more changes" />
+    <MESSAGE value="remove unnecessary files" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unnecessary files" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/TraversingJsonSpec.scala">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/srcs/monocle-core_2.12-1.4.0-sources.jar!/monocle/Iso.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="77" column="36" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/BasicConversion.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#33#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CustomEncoding.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="74" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-optics_2.12/srcs/circe-optics_2.12-0.9.3-sources.jar!/io/circe/optics/CatsConversions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CirceSelectors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#33#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.julien-truffaut/monocle-macro_2.12/srcs/monocle-macro_2.12-1.4.0-sources.jar!/monocle/macros/GenLens.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding>
+            <element signature="e#41#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/OptionalTry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/LensTry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/PrismTry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="48" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-optics_2.12/srcs/circe-optics_2.12-0.9.3-sources.jar!/io/circe/optics/JsonPath.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="70" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
+          <folding>
+            <element signature="e#25#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-optics_2.12/srcs/circe-optics_2.12-0.9.3-sources.jar!/io/circe/optics/JsonOptics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.0.1-sources.jar!/cats/instances/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.0.1-sources.jar!/cats/instances/list.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#32#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.0.1-sources.jar!/cats/Traverse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/srcs/monocle-core_2.12-1.4.0-sources.jar!/monocle/Optional.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="118" column="29" selection-start-line="118" selection-start-column="29" selection-end-line="118" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.0.1-sources.jar!/cats/syntax/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.0.1-sources.jar!/cats/syntax/list.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/TraversalTry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#41#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/srcs/monocle-core_2.12-1.4.0-sources.jar!/monocle/Traversal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="238" column="23" selection-start-line="238" selection-start-column="23" selection-end-line="238" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/ClassSack.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-core_2.12/srcs/circe-core_2.12-0.9.3-sources.jar!/io/circe/Json.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
+          <folding>
+            <element signature="e#18#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#47#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/EncodingAndDecodingSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/BasicConversionSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="242">
           <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/CirceSelectorsSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="-5">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/OptionalTry.scala">
+    <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/TraversingJsonSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        <state relative-caret-position="-38">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -645,95 +859,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/LensTry.scala">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-core_2.12/srcs/circe-core_2.12-0.9.3-sources.jar!/io/circe/syntax/package.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="68" column="17" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/PrismTry.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/BasicConversion.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="e#33#63#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding>
-            <element signature="e#33#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#47#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-optics_2.12/srcs/circe-optics_2.12-0.9.3-sources.jar!/io/circe/optics/JsonPath.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/ClassSack.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CirceSelectors.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="e#33#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/srcs/monocle-core_2.12-1.4.0-sources.jar!/monocle/Iso.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="77" column="36" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-          <folding>
-            <element signature="e#41#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
