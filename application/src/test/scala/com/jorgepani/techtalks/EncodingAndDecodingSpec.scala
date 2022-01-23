@@ -1,40 +1,28 @@
 package com.jorgepani.techtalks
 
 import java.time.LocalDate
-
-import com.jorgepani.techtalks.anvilOfModels.{
-  Decoders,
-  Encoders,
-  HeroGang,
-  Power,
-  SuperHero
-}
+import com.jorgepani.techtalks.anvilOfModels.{Decoders, Encoders, HeroGang, Power, SuperHero}
 import io.circe.Json
 import io.circe.syntax._
 import io.circe.parser._
-import org.scalatest.{MustMatchers, WordSpec}
+import org.scalatest.wordspec.AnyWordSpec
+import org.scalatest.matchers.must.Matchers
 
-class EncodingAndDecodingSpec
-    extends WordSpec
-    with MustMatchers
-    with Encoders
-    with Decoders {
+class EncodingAndDecodingSpec extends AnyWordSpec with Matchers with Encoders with Decoders {
 
   "Circeplayground" should {
     "convert an object into Json" in {
 
       val ironManPowers = List[Power](
         Power("Rich", "Have all money he wants to buy spare parts"),
-        Power("SuperIntelligence",
-              "The smartest one when thinking about destroying things"),
+        Power("SuperIntelligence", "The smartest one when thinking about destroying things"),
         Power("SuperBeard", "The best beard of all heroes")
       )
 
       val blackPantherPowers = List[Power](
         Power("Rich", "Wakanda forever"),
         Power("Super strength", "That's a superpower sometimes"),
-        Power("King in the south",
-              "The king of somewhere in africa with a huge air conditioner")
+        Power("King in the south", "The king of somewhere in africa with a huge air conditioner")
       )
 
       val ironMan = SuperHero("IronMan", "Male", ironManPowers, LocalDate.now)
@@ -46,8 +34,7 @@ class EncodingAndDecodingSpec
 
       val json = avengers.asJson
 
-      parse(json.noSpaces).getOrElse(Json.Null).as[HeroGang].right.get must be(
-        avengers)
+      parse(json.noSpaces).getOrElse(Json.Null).as[HeroGang].right.get must be(avengers)
 
     }
   }

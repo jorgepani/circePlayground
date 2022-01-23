@@ -1,23 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="972625e0-a2bb-4413-885e-76b7b6b82eb0" name="Default Changelist" comment="">
+    <list default="true" id="972625e0-a2bb-4413-885e-76b7b6b82eb0" name="Default Changelist" comment="remove unnecessary files">
+      <change afterPath="$PROJECT_DIR$/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Dependencies.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.scalafmt.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.scalafmt.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/BasicConversion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/BasicConversion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CirceSelectors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CirceSelectors.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CustomEncoding.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/CustomEncoding.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/TraversingJson.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/TraversingJson.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/ClassSack.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/ClassSack.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/DynamicGames.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/IsoTry.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/LensTry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/LensTry.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/OptionalTry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/OptionalTry.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/PrismTry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/monocle/PrismTry.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/resources/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/resources/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/BasicConversionSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/BasicConversionSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/CirceSelectorsSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/CirceSelectorsSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/EncodingAndDecodingSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/EncodingAndDecodingSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/TraversingJsonSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/TraversingJsonSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/properties.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/targets.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/version.sbt" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/project/project/target/" />
-    <ignored path="$PROJECT_DIR$/project/target/" />
-    <ignored path="$PROJECT_DIR$/docker-image/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/application/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -30,109 +54,19 @@
   <component name="ExternalProjectsManager">
     <system id="SBT">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="circeplayground" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/EncodingAndDecoding.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-core_2.12/srcs/circe-core_2.12-0.9.3-sources.jar!/io/circe/syntax/package.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/EncodingAndDecodingSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/BasicConversionSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/CirceSelectorsSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/test/scala/com/jorgepani/techtalks/TraversingJsonSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/TraversingJson.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/Codec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-485">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="e#47#73#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-core_2.12/srcs/circe-core_2.12-0.9.3-sources.jar!/io/circe/Json.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1022">
-              <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
-              <folding>
-                <element signature="e#18#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/main/scala/com/jorgepani/techtalks/anvilOfModels/ClassSack.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -142,6 +76,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,11 +100,15 @@
       </list>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="36" />
     <option name="width" value="1440" />
     <option name="height" value="813" />
   </component>
+  <component name="ProjectId" id="1wfPiqOkLGesRTZXgKuBj1E0hKF" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -302,51 +248,38 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.EncodingAndDecoding">
+  <component name="RunManager" selected="ScalaTest.EncodingAndDecodingSpec">
     <configuration name="EncodingAndDecoding" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jorgepani.techtalks.EncodingAndDecoding" />
       <module name="application" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jorgepani.techtalks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsoTry" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jorgepani.techtalks.monocle.IsoTry" />
-      <module name="application" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jorgepani.techtalks.monocle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,111 +326,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="application" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="application" />
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncodingAndDecodingSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="application" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="testClassPath" value="com.jorgepani.techtalks.EncodingAndDecodingSpec" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.EncodingAndDecodingSpec" />
         <item itemvalue="Application.EncodingAndDecoding" />
         <item itemvalue="Application.OptionalTry" />
         <item itemvalue="Application.PrismTry" />
         <item itemvalue="Application.LensTry" />
-        <item itemvalue="Application.IsoTry" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="availableProjects">
-      <map>
-        <entry>
-          <key>
-            <ExternalProjectPojo>
-              <option name="name" value="circeplayground" />
-              <option name="path" value="$PROJECT_DIR$" />
-            </ExternalProjectPojo>
-          </key>
-          <value>
-            <list>
-              <ExternalProjectPojo>
-                <option name="name" value="circeplayground [file:/Users/jpaniaguaferna/IdeaProyects/personal/circePlayground/]" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="application [file:/Users/jpaniaguaferna/IdeaProyects/personal/circePlayground/]" />
-                <option name="path" value="$PROJECT_DIR$/application" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="dockerImage [file:/Users/jpaniaguaferna/IdeaProyects/personal/circePlayground/]" />
-                <option name="path" value="$PROJECT_DIR$/docker-image" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="circeplayground-build" />
-                <option name="path" value="$PROJECT_DIR$/project" />
-              </ExternalProjectPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="6225122966000" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="2390882131" />
-        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="3086197009" />
-        <entry key="$PROJECT_DIR$/project/build.properties" value="1198701921" />
-        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="1912014489" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-      </map>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="more changes">
       <created>1557234897284</created>
@@ -619,6 +485,74 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="22e0316e-3d45-4d3e-b281-ca96acde06cb">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/jorgepaniagua/Documents/circePlayground/project" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="e39fadf5-afd5-424f-8b86-7833b2e1fef1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="22e0316e-3d45-4d3e-b281-ca96acde06cb" value="TOOL_WINDOW" />
+        <entry key="e39fadf5-afd5-424f-8b86-7833b2e1fef1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="more changes" />
