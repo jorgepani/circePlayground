@@ -2,9 +2,10 @@ package com.jorgepani.techtalks
 
 import io.circe.{HCursor, Json}
 import io.circe.parser._
-import org.scalatest.{MustMatchers, WordSpec}
+import org.scalatest.matchers.must.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class TraversingJsonSpec extends WordSpec with MustMatchers {
+class TraversingJsonSpec extends AnyWordSpec with Matchers {
   "Circeplayground" should {
     "traverse a Json to get all counts" in {
 
