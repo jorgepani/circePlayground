@@ -7,12 +7,13 @@ case class Kilometer(whole: Int, fraction: Int)
 case class Meter(whole: Int, fraction: Int)
 case class Centimeter(whole: Int)
 
-//Para tipos de datos que son esencialmente lo mismo pero los representamos diferente
+//For all those kinds of data being the same but represented differently
+//Size units, money... Isomorphism
 object IsoTry extends App {
 
   private val log = LoggerFactory.getLogger(this.getClass)
 
-  // Get y reverseGet
+  // Get and reverseGet
   val isoCentToMeter = Iso[Centimeter, Meter] { cm =>
     Meter(cm.whole / 100, cm.whole % 100)
   } { m =>
@@ -33,6 +34,7 @@ object IsoTry extends App {
   log.info(s"Centimeters = $centimeter")
 
   //Centimetro convertido a metro y además modificado para añadirle lo que quiero
+  //Centimeter to meter also having a bit of modification to add what I want
   val meterToCent = isoCentToMeter.modify(m => m.copy(m.whole + 3))(Centimeter(155))
 
   log.info(s"Centimeters = $meterToCent")

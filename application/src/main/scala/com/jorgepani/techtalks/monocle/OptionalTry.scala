@@ -3,9 +3,9 @@ package com.jorgepani.techtalks.monocle
 import monocle.Optional
 
 /*
-Coge las funciones debiles que comparten los prism y las lens y las une en un solo cacharro
-y tenemos un getOption porque puede que no alcancemos lo que queremos enfocar
-pero el set, necesita de un contexto al igual que las Lens
+It gets the weak functions shared by prisms and lens and joins them in a single artifact
+giving us `getOption` because we could not reach what we are trying to focus
+Set needs a context as any other Lens
  */
 
 sealed trait Error

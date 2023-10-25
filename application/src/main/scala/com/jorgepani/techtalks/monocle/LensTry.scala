@@ -4,16 +4,16 @@ import monocle.Lens
 import monocle.macros.GenLens
 
 /*
-Una Lens es una Iso que sí pierde información, pierde el contexto al acceder al dato
+A Lens is an Iso loosing information. It looses context when getting data
 isoToLens[S, A](iso: Iso[S, A]): Lens[S, A] =>
   Lens(
     get = iso.get,
     set = (a, _) => iso.reverseGet(a)
   )
 
-  get obtiene el valor
-  set da uno nuevo
-  modify hace un set con una funcion
+  the get obtains data
+  set gives new data
+  modify is setting with a function
  */
 
 case class Town(name: String, province: Province, population: Int)
@@ -34,7 +34,7 @@ object GeoLenses {
     Lens.apply[Region, String](region => region.name)(newName =>
       region => region.copy(name = newName))
 
-  // macros para no escribir toda esa parrafada
+  // macros to not write all that boilerplate upp there
   val macroLens = GenLens[Town](_.name)
 }
 
@@ -45,12 +45,12 @@ object LensTry extends App {
   def nonsenseNameExample() = {
     val riyion = Region("Murcia", "Piruletalandia")
 
-    println(s"El nombre de la region es: ${regionNameLens.get(riyion)}")
+    println(s"Region's name: ${regionNameLens.get(riyion)}")
     println(regionNameLens.set("Juliembre")(riyion))
   }
 
-  //composición de lentes
-  //ejemplo típico con copy
+  //Lens composition
+  //typical copy example
   def upperCaseWithCopy(town: Town): Town =
     town.copy(
       province = town.province.copy(
@@ -59,7 +59,7 @@ object LensTry extends App {
         )
       ))
 
-  //ejemplo con lentes
+  //Lens example
   def upperCaseLense(town: Town): Town = {
     val regionsLens: Lens[Town, String] =
       provinceLens.composeLens(regionLens).composeLens(regionNameLens)

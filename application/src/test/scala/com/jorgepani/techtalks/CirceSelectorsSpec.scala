@@ -4,18 +4,16 @@ import com.jorgepani.techtalks.anvilOfModels.Jsones
 import io.circe.Json
 import io.circe.optics.JsonPath.root
 import io.circe.parser.parse
-import org.scalatest.{MustMatchers, WordSpec}
+import org.scalatest.matchers.must.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class CirceSelectorsSpec extends WordSpec with MustMatchers {
+class CirceSelectorsSpec extends AnyWordSpec with Matchers {
   "Circeplayground" should {
     "traverse a Json to modify it with Optics" in {
       //All parameters should be required. Use
       val jsonString = Jsones.swaggerJson
 
       val jsonParsed = parse(jsonString).getOrElse(Json.Null)
-
-      //Just to compile
-      println(jsonString)
 
       val alteredResponse =
         root.paths.data.get.parameters.each.required.boolean.modify(_ ⇒

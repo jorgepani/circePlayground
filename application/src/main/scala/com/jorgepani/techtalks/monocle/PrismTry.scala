@@ -8,11 +8,10 @@ reverseGet
  */
 object PrismTry extends App {
 
-  //Una iso que puede no llegar a alcanzar un valor. Head & tail example para listas
-  // Pone juntos el pattern matching y el construct
+  //It's somehow an Iso that could not reach a value. Head & tail example for lists
+  //It uses pattern match and construct together
 
-
-  //modelado de un ADT -> Algebraic Data Types
+  //modeling an ADT -> Algebraic Data Types
   sealed trait Json
   case object JNull extends Json
   case class JStr(v: String) extends Json
